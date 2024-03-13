@@ -1,9 +1,4 @@
----CREA UN BRANCH 
-
----REVISA LOS COMENTARIOS QUE HAY EN TODO EL CODIGO PARA ENTENDERLO.
-
---HAY QUE CARGAR EL SCRIPT DE LA BBDD ORIGINAL, TODO FUNCIONA EN BASE A LA BASE DE DATOS QUE SE ELABORO AL PRINCIPIO DEL PROYECTO.
-
----CONFIGURA EL ARCHIVO hibernate.cfg.xml PARA CONECTARSE A TU BBDD EN LOCALHOST CON TU USUARIO Y TU PASS.  
-
----DEBEIS CONFIGURAR MAVEN CORRECTAMENTE PARA EL DEBUG CON JAVAFX.
+Este proyecto tiene como objetivo el desarrollo e implementación de una aplicación de gestión avanzada utilizando técnicas de programación en Java. 
+La aplicación, denominada "OnlineStore," está diseñada para la gestión eficiente de un comercio electrónico y plantea una situación real en el ámbito profesional.
+OnlineStore representa una aplicación de gestión de comercio electrónico que aborda desafíos escalables y aplicables a cualquier empresa del sector. 
+A través de este proyecto, nos sumergiremos en la construcción de aplicaciones haciendo uso de técnicas de programación avanzadas. Además, exploraremos diversas estrategias para almacenar datos, tanto en estructuras dinámicas como en sistemas de gestión de bases de datos relacionales (SGBDOR).
